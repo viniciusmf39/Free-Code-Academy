@@ -1,1 +1,0 @@
-const MyComponent = ()=> (<div>Beyonce Halo</div>);
